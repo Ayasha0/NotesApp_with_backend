@@ -1,0 +1,11 @@
+Express.js Overview
+Express.js is a fast, minimal, and flexible Node.js framework used for building web applications and APIs. It simplifies handling HTTP requests, routing, middleware management, and server-side logic, making it a popular choice for backend development.
+
+Key Features of Express.js
+Lightweight & Minimal - Provides essential web features without unnecessary complexity.
+Routing - Handles different URL paths with ease (app.get(), app.post(), etc.).
+Middleware Support - Allows adding extra functionality (e.g., authentication, logging, parsing).
+Templating - Supports view engines like EJS, Pug, and Handlebars.
+REST API Development - Ideal for creating RESTful services.
+Error Handling - Built-in mechanisms for handling errors.
+Database Integration - Works well with MongoDB (Mongoose), MySQL, PostgreSQL, etc.
